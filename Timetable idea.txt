@@ -1,0 +1,35 @@
+TITLE:AI-Based Timetable System for NEP 2020
+
+
+---
+
+=>Problem:
+The new NEP 2020 guidelines are amazing — they let students mix subjects like Physics with Music or Computer Science with Economics. But this freedom also creates a big problem. Making a timetable where every student has their own unique subject choices is almost impossible to do by hand. What happens then? Students face class clashes, some teachers get overloaded while others sit free, and administrators waste weeks trying to fix timetables that still end up with mistakes and last-minute confusion.
+
+---
+
+=> The Solution (How AI Helps):
+
+Students will get personal timetables that actually fit their subject choices.
+
+Teachers will have balanced schedules — no one overworked, no one underused.
+
+Colleges will use rooms and labs smartly, without wasting space.
+
+If something changes (say, a teacher goes on leave), the timetable will update instantly with no confusion.
+
+Teachers just have to mark that they are on leave, and the AI system will automatically update the timetable.
+
+Other teachers will get notifications of the new timetable update.
+
+This will create a seamless ecosystem in which teachers’ and students’ time will not get wasted.
+
+(In short: If something changes, the timetable can be updated instantly.)
+
+
+
+---
+
+==> In Simple Words:
+
+Our system makes timetables automatic, fair, and stress-free for everyone.
